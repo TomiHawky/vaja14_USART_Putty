@@ -7,10 +7,14 @@
   3. 115200 
 
 ## Pinout
-![Pinout]()
+![Pinout](https://raw.githubusercontent.com/TomiHawky/vaja14_USART_Putty/main/Posnetek%20zaslona%202023-01-31%20085630.png)
+
+## Minicom
+![Minicom](https://raw.githubusercontent.com/TomiHawky/vaja14_USART_Putty/main/Screenshot%20from%202023-01-31%2009-04-16.png)
 
 ## vezje
-![Vezje]()
+![Vezje](https://raw.githubusercontent.com/TomiHawky/vaja14_USART_Putty/main/IMG_20230124_091710.jpg)
 
-##Komentar
-Namesto putty sem uporabil minicom, deluje tudi serial monitor v arduino ide
+## Komentar
+1. Namesto putty sem uporabil minicom
+2. Deluje tudi serial monitor v arduino ide
