@@ -5,3 +5,12 @@
   1. Odspajkati: SB13, SB14 Pospajkati: SB62, SB63
   2. RX: PA2, TX: PA3
   3. 115200 
+
+## Pinout
+![Pinout]()
+
+## vezje
+![Vezje]()
+
+##Komentar
+Namesto putty sem uporabil minicom, deluje tudi serial monitor v arduino ide
